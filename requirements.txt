@@ -1,0 +1,5 @@
+# DeVAIC-style security analyzer
+# Python 3.9+
+
+# No external dependencies.
+# The project uses only Python standard-library modules.
